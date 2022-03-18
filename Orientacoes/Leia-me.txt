@@ -1,0 +1,10 @@
+*****************  Para funcionar o projeto  ****************
+
+1º Restaurar o backup da base de dados que se encontra na pasta "Orientacoes"
+2º Alterar o appsettings.json do projeto para a sua conexão local, conforme print que se encontra na pasta "Orientacoes"
+
+**********  Facilitar o uso dos endpoints criado  *****************
+
+1º Baixe o programa chamdo "Insomnia"
+2º No programa "Insomnia" selecione a opção de importar configurações, selecione o arquivo "Insomnia.json" que se encontra na pasta "Orientações"
+
